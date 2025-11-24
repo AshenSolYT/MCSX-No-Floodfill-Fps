@@ -1,4 +1,8 @@
-# PSX_MCSX
+# MCSX-NoFloodfill-Fps
+A Mcsx Shader edit that removes the floodfill lights and enables frustum culling for more fps and adds a new default config
+im not sure if i'll do anything else but this is what i got so far
+
+# PSX_MCSX Original
 An Edit of the PSX Minecraft shader (https://github.com/ckosmic/minecraft-psx), intended for use in the MCSX modpack.
 
 Replicates the look of a PS1 era game in Minecraft, including chunky pixels, affine texture warping, and other fun effects.
